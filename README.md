@@ -1,1 +1,1 @@
-# GroupFoundInformation
+# 本仓库用于储备收集到的ctf题目以及它的writeup
